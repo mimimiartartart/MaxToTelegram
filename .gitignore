@@ -1,0 +1,20 @@
+# attachments and logs
+attachments/
+frames.log
+seen_ids.json
+
+# virtualenv
+venv/
+.env.*.local
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
